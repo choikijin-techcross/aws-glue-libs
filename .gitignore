@@ -1,6 +1,7 @@
 *.pyc
 PyGlue.zip
 conf/
+!conf/spark-customs.conf
 jars/
 derby.log
 metastore_db/
